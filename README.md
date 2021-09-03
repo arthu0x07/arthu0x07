@@ -9,7 +9,6 @@
 <br>
 
 <h1> Habilidades </h1>
-
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,4 +21,3 @@
 <br><br>                                                                                                                                                                
  
  <a href="" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-                                                                                                                                           <br> <br> <br> <br> <br
