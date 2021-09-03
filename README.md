@@ -24,8 +24,3 @@
  <a href="" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br>                                                                                                                                                <br> <br> <br> <br> <br>
-
-  ![Snake animation](https://github.com/arthu0x07/arthu0x07/blob/output/github-contribution-grid-snake.svg)
-
-
-
