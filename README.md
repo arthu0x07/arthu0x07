@@ -20,4 +20,4 @@
 
 <br><br>                                                                                                                                                                
  
- <a href="https://www.linkedin.com/in/artu0x7/" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="text-align:center; margin-left:80px"/></a>
+ <a href="https://www.linkedin.com/in/artu0x7/" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
