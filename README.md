@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<br><br>                                                                                                                                                                
+<br><br><br><br><br>                                                                                                                                                                
  
 <a target="_blank" href="https://www.linkedin.com/in/artu0x7/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
