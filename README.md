@@ -1,7 +1,6 @@
 <h2> Opa pessoal 👀 </h2>
 <h3> Sou desenvolvedor front-end júnior 💻 Atualmente sigo me especializando em React para Web e estudando um pouco de back-end com Nodejs🚀 </h3>
- 
-<br><br>
+<br>
 
  <h4> 🚀 Estudando front-end na trilha de React na RocketSeat </h4>
  <h4> 🧰 Tenho habilidades em HTML, CSS, JavaScript, React, Nodejs, MongoDB, Git...</h4>
