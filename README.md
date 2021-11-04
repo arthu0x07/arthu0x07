@@ -1,5 +1,5 @@
 <h2> Opa pessoal 👀 </h2>
-<h3> Sou desenvolvedor front-end júnior 💻 Atualmente sigo me especializando em React para Web e estudando um pouco de back-end 🚀 </h3>
+<h3> Sou desenvolvedor front-end júnior 💻 Atualmente sigo me especializando em React para Web e estudando um pouco de back-end com Nodejs🚀 </h3>
  
 <br><br>
 
