@@ -7,14 +7,14 @@
 <h4> 🧰 Tenho habilidades em HTML, CSS, JavaScript, React, Nodejs, MongoDB, Git...</h4>
 <h4> 💬 Gosto muito de estudar, dedico 80% do meu dia a programação 🐱‍👤 Gosto de jogar uns joguinhos 🎮  </h4>
 <h4> 💡 Caso precise, posso te ajudar com suas dúvidas! </h4>
- 
-<br><br>                                                                                                                                         
- 
-<a target="_blank" href="https://www.linkedin.com/in/arthu0x7/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+                                                                                                                                         
 <br><br><br><br>
 <p align="center">
   <img src="https://occ-0-92-1723.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABf-OPaKzLzo9bMt7ytziIXBseM87KO4X7U9XJYyKmRpi1cnyqrXpp_hMEt0lh8ikAB25q6-3keYJgxjCAkkCJrK9ELF2wniHj3oqpEiQCWnxafQY.jpg?r=037"/>
 </p>
+
+<br><br>
+<a target="_blank" href="https://www.linkedin.com/in/arthu0x7/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
