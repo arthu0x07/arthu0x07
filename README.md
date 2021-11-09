@@ -9,6 +9,7 @@
 <h4> 💬 Gosto muito de estudar, dedico 80% do meu dia a programação 🐱‍👤 Gosto de jogar uns joguinhos 🎮  </h4>
 <h4> 🌱 Estou a procura de projetos para ajudar </h4>
 <h4> 💡 Caso precise, posso te ajudar com suas dúvidas! </h4>
+<h4> 🗄️ Confira meus repositórios! Alguns estão usando o GitHubPages 🤠</h4>
                                                                                                                                          
 <br><br><br><br>
 <p align="center">
