@@ -6,7 +6,6 @@
 <h4> 🚀 Estudando front-end na trilha de React na RocketSeat </h4>
 <h4> 📌 Atualmente moro no Rio de Janeiro </h4>
 <h4> 🧰 Tenho habilidades em HTML, CSS, JavaScript, React, Nodejs, MongoDB, Git...</h4>
-<h4> 💬 Meu dia é composta de 80% de programação e outros 20% para o resto </h4> 
 <h4> 🐱‍👤 Gosto de jogar uns joguinhos 🎮  </h4>
 <h4> 🌱 Estou a procura de projetos para ajudar </h4>
 <h4> 💡 Caso precise, posso te ajudar com suas dúvidas! </h4>
