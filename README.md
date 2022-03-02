@@ -5,7 +5,7 @@
 <h4> 🧛🏽‍ Meu nome é Arthur e eu tenho 17 anos </h4>
 <h4> 🚀 Estudando front-end na trilha de React na RocketSeat </h4>
 <h4> 📌 Atualmente moro no Rio de Janeiro </h4>
-<h4> 🧰 Tenho habilidades em HTML, CSS, JavaScript, React, Nodejs, MongoDB, Git...</h4>
+<h4> 🧰 Tenho habilidades em HTML, CSS, JavaScript, React, Styled-Components, Nodejs, MongoDB, Git, APIs da WEB...</h4>
 <h4> 🐱‍👤 Gosto de jogar uns joguinhos 🎮  </h4>
 <h4> 🌱 Estou a procura de projetos para ajudar </h4>
 <h4> 💡 Caso precise, posso te ajudar com suas dúvidas! </h4>
