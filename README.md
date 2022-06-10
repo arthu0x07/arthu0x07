@@ -2,7 +2,7 @@
 <h3> Sou desenvolvedor front-end júnior 💻 Atualmente sigo me especializando em React para Web e estudando um pouco de back-end com Nodejs🚀 </h3>
 <br>
 
-<h4> 🧛🏽‍ Meu nome é Arthur e eu tenho 17 anos </h4>
+<h4> 🧛🏽‍ Meu nome é Arthur e eu tenho 18 anos </h4>
 <h4> 🚀 Estudando front-end na trilha de React na RocketSeat </h4>
 <h4> 📌 Atualmente moro no Rio de Janeiro </h4>
 <h4> 🧰 Tenho habilidades em HTML, CSS, JavaScript, React, Styled-Components, Nodejs, MongoDB, Git, APIs da WEB...</h4>
