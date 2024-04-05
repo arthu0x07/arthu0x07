@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arthu0x7/](https://www.linkedin.com/in/arthu0x7/)
 
+- 👨‍💻 Check my HackerRank [https://www.hackerrank.com/profile/arthu0x07](https://www.hackerrank.com/profile/arthu0x07)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/arthu0x07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arthu0x07" height="30" width="40" /></a>
