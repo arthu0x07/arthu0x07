@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **front-end projects**
 
-- 🌱 I’m currently learning **React Native and NodeJS**
+- 🌱 I’m currently learning **Tailwind and Back-end with node**
 
-- 👯 I’m looking to collaborate on **projects with authentication JWT**
+- 👯 I’m looking to collaborate on **projects with Payments API**
 
 - 👨‍💻 All of my projects are available at [github.com/arthu0x07](github.com/arthu0x07)
 
-- 💬 Ask me about **HTML, JS, CSS, NodeJS, ReactJS, TypeScript, Webpack, Babel,**
+- 💬 Ask me about **HTML, JS, CSS, NodeJS, ReactJS, React Native, TypeScript, Webpack, Babel, Firebase and others**
 
 - 📫 How to reach me **arthur.santos.off@gmail.com**
 
