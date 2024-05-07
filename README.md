@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthu0x07&label=Profile%20views&color=0e75b6&style=flat" alt="arthu0x07" /> </p>
 
-- 🔭 I’m currently working on **front-end projects**
+- 🔭 I’m currently working on **back-end projects**
 
 - 🌱 I’m currently learning **Tailwind and Back-end with node**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/arthu0x07](github.com/arthu0x07)
 
-- 💬 Ask me about **HTML, JS, CSS, NodeJS, ReactJS, React Native, TypeScript, Webpack, Babel, Firebase and others**
+- 💬 Ask me about **HTML, JS, CSS, NodeJS, ReactJS, React Native, TypeScript, Webpack, Babel, Firebase, NestJS, SQL and others**
 
 - 📫 How to reach me **arthur.santos.off@gmail.com**
 
