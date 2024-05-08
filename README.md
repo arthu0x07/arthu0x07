@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthu0x07</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h3 align="center">A passionate back-end developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthu0x07&label=Profile%20views&color=0e75b6&style=flat" alt="arthu0x07" /> </p>
 
