@@ -127,9 +127,9 @@
 
 <div>
   
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthu0x07&include_all_commits=true&count_private=true&hide=stars&show_icons=true&hide_rank=true&include_all_commits=true&title_color=0C5851&text_color=0C5851&icon_color=0C5851&bg_color=315,1DE7CF,7880E2&hide_border=true&cache_seconds=14400&locale=en&border_radius=8&card_width=300" align="center"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthu0x07&include_all_commits=true&count_private=true&hide=stars&show_icons=true&hide_rank=true&include_all_commits=true&title_color=0C5851&text_color=0C5851&icon_color=0C5851&bg_color=315,1DE7CF,7880E2&hide_border=true&cache_seconds=14400&locale=en&border_radius=8&card_width=300" width="600px" height="200px" align="center"/>
 
-<img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-naruto-32.gif" width="300px" height="100%" align="right"/>
+<img src="https://gifs.eco.br/wp-content/uploads/2021/06/gifs-de-naruto-32.gif" width="250px" height="200px" align="right"/>
 
 
 </div>
